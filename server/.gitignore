@@ -1,0 +1,9 @@
+__nodemodules
+__.env
+
+
+node_modules
+.env
+
+/.env
+/node_modules
